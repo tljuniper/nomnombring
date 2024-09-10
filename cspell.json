@@ -1,0 +1,30 @@
+{
+    "version": "0.2",
+    "ignorePaths": [],
+    "dictionaryDefinitions": [],
+    "dictionaries": [],
+    "words": [
+        "bringauth",
+        "bringlists",
+        "bringusers",
+        "builtins",
+        "direnv",
+        "gunicorn",
+        "jsonify",
+        "nixos",
+        "nixpkgs",
+        "nomnombring",
+        "numtide",
+        "pinia",
+        "pkgs",
+        "pname",
+        "publisheria",
+        "setuptools",
+        "tljuniper",
+        "venv",
+        "Vetur",
+        "yocto"
+    ],
+    "ignoreWords": [],
+    "import": []
+}

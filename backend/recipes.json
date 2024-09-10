@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Saure Bohnensuppe",
+        "portion": "4 Portionen",
+        "time": "40 Minuten",
+        "ingredients": [
+            {
+                "name": "Bohnen",
+                "description": "breite",
+                "amount": "500 g"
+            },
+            {
+                "name": "Kartoffeln",
+                "description": "",
+                "amount": "500 g"
+            }
+        ],
+        "id": 1
+    },
+    {
+        "title": "Mitternachtssuppe",
+        "portion": "6 Portionen",
+        "time": "40 Minuten",
+        "ingredients": [
+            {
+                "name": "Gew\u00fcrzgurken",
+                "description": "",
+                "amount": "1 Glas"
+            },
+            {
+                "name": "Sahne",
+                "description": "",
+                "amount": "1 Becher"
+            }
+        ],
+        "id": 2
+    }
+]
